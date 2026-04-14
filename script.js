@@ -154,6 +154,6 @@ document.addEventListener('DOMContentLoaded', function() {
     // 10. GitHub link update
     const githubBtn = document.querySelector('.projects-cta .btn');
     if (githubBtn) {
-        // Replace with your actual GitHub URL
-        githubBtn.href = 'https://github.com/yourusername';
+        
+        githubBtn.href = 'https://github.com/';
     }
